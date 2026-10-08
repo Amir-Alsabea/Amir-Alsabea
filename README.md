@@ -1,5 +1,5 @@
 # About Me:
-### About Me<br><br>Hi, I’m **Amir Alsabea**, an Artificial Intelligence student at **Imam Abdulrahman Bin Faisal University (IAU)** with a strong **background in Artificial Intelligence, Machine Learning, and Web Development**. I enjoy building practical projects, solving technical problems, and exploring how AI can be integrated into modern web applications. I’m continuously developing my skills in **Python, Data Science, AI/ML, and full-stack web development** while working on real-world projects and expanding my technical experience.<br>
+### <br>Hi, I’m **Amir Alsabea**, an Artificial Intelligence student at **Imam Abdulrahman Bin Faisal University (IAU)** with a strong **background in Artificial Intelligence, Machine Learning, and Web Development**. I enjoy building practical projects, solving technical problems, and exploring how AI can be integrated into modern web applications. I’m continuously developing my skills in **Python, Data Science, AI/ML, and full-stack web development** while working on real-world projects and expanding my technical experience.<br>
 
 
 ## Socials:
