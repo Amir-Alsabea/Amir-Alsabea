@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/neural-net.gif" alt="Animated neural network" width="360">
+<img src="assets/neural-net.gif" alt="Animated neural network" width="320">
 
 <br>
 
@@ -14,7 +14,7 @@ and exploring how AI can be integrated into modern web applications
 
 ### My goal:
 
-<sub>Turn AI ideas into practical, working web applications that solve real problems.</sub>
+Turn AI ideas into practical, working web applications that solve real problems.
 
 <br>
 
@@ -24,13 +24,14 @@ and exploring how AI can be integrated into modern web applications
 
 <br>
 
-</div>
 
 #### Find me on:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/amir717sd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-alsabea-881372388)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amiralsabea7@gmail.com)
+
+</div>
 
 ## 💻 Tech Stacks:
 
