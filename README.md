@@ -18,7 +18,7 @@ Turn AI ideas into practical, working web applications that solve real problems.
 
 ### Studied at:
 
-<a href="https://www.iau.edu.sa"><img src="assets/iau-logo.png" alt="Imam Abdulrahman Bin Faisal University" width="400"></a>
+<a href="https://www.iau.edu.sa"><img src="assets/iau-logo.png" alt="Imam Abdulrahman Bin Faisal University" width="360"></a>
 
 
 ### Find me on:
