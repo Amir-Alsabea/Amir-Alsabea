@@ -15,13 +15,10 @@ solving technical problems, and exploring how **AI** can be integrated into mode
 
 Turn AI ideas into practical, working web applications that solve real problems.
 
-<br>
 
 ### Studied at:
 
 <a href="https://www.iau.edu.sa"><img src="assets/iau-logo.png" alt="Imam Abdulrahman Bin Faisal University" width="400"></a>
-
-<br>
 
 
 ### Find me on:
