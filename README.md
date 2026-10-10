@@ -4,10 +4,10 @@
 
 ### Hi, I'm Amir Alsabea.
 
-I'm an Artificial Intelligence student at **Imam Abdulrahman Bin Faisal University (IAU)** with a strong background in **AI, machine learning, and web development**.  
+I'm an Artificial Intelligence student at **(IAU)** with a strong background in **AI, machine learning, and web development**.  
 I enjoy building practical projects, solving technical problems, and exploring how AI can be integrated into modern web applications 🪄
 
-### My goal is simple:
+### My goal:
 
 Turn AI ideas into practical, working web applications that solve real problems.
 
