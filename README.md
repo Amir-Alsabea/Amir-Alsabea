@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/neural-net.gif" alt="Animated neural network" width="487">
-</p>
+<div align="center">
+
+<img src="assets/neural-net.gif" alt="Animated neural network" width="480">
 
 ### Hi, I'm Amir Alsabea.
 
@@ -14,6 +14,8 @@ Turn AI ideas into practical, working web applications that solve real problems.
 #### Studied at:
 
 <a href="https://www.iau.edu.sa"><img src="assets/iau-logo.png" alt="Imam Abdulrahman Bin Faisal University" width="400"></a>
+
+</div>
 
 #### Find me on:
 
@@ -35,34 +37,34 @@ Turn AI ideas into practical, working web applications that solve real problems.
 
   * **Frontend:**
 
-        ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-        ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-        ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-        ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white)
-        ![MUI](https://img.shields.io/badge/MUI-0081CB?style=flat&logo=mui&logoColor=white)
-        ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=black)
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+    ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+    ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white)
+    ![MUI](https://img.shields.io/badge/MUI-0081CB?style=flat&logo=mui&logoColor=white)
+    ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=black)
 
   * **Backend:**
 
-        ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-        ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=61DAFB)
-        ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-        ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-        ![Nodemon](https://img.shields.io/badge/Nodemon-323330?style=flat&logo=nodemon&logoColor=BBDEAD)
+    ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+    ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=61DAFB)
+    ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+    ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
+    ![Nodemon](https://img.shields.io/badge/Nodemon-323330?style=flat&logo=nodemon&logoColor=BBDEAD)
 
   * **Databases:**
 
-        ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 - **AI & ML:**
 
   * **Data Science Libraries/Tools:**
 
-        ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-        ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-        ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat&logo=matplotlib&logoColor=black)
-        ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+    ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+    ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat&logo=matplotlib&logoColor=black)
+    ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 
 - **Deployment & Version Control:**
 
