@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/neural-net.gif" alt="Animated neural network" width="400">
+<img src="assets/neural-net.gif" alt="Animated neural network" width="360">
 
 <br>
 
-#### Hi, I'm Amir Alsabea.
+### Hi, I'm Amir Alsabea.
 
 <sub>I'm an Artificial Intelligence student at **IAU** with a strong background in **AI, machine learning, and web development**.<br>
 I enjoy building practical projects, solving technical problems,<br>
@@ -12,13 +12,13 @@ and exploring how AI can be integrated into modern web applications</sub>
 
 <br>
 
-#### My goal:
+### My goal:
 
 <sub>Turn AI ideas into practical, working web applications that solve real problems.</sub>
 
 <br>
 
-##### Studied at:
+### Studied at:
 
 <a href="https://www.iau.edu.sa"><img src="assets/iau-logo.png" alt="Imam Abdulrahman Bin Faisal University" width="400"></a>
 
