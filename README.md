@@ -6,12 +6,9 @@
 
 ### Hi, I'm Amir Alsabea.
 
-I'm an **Artificial Intelligence** student at **IAU**<br>
-with a strong background in **AI, machine learning,**<br>
-and **web development**.<br>
-I enjoy building practical projects,<br>
-solving technical problems, and exploring<br>
-how **AI** can be integrated into modern **web applications**
+I'm an **Artificial Intelligence** student at **IAU** with a strong background in **AI, machine learning,**<br>
+and **web development**. I enjoy building practical projects,<br>
+solving technical problems, and exploring how **AI** can be integrated into modern **web applications**
 
 <br>
 
