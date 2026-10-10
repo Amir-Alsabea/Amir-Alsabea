@@ -1,19 +1,28 @@
 <div align="center">
 
-<img src="assets/neural-net.gif" alt="Animated neural network" width="480">
+<img src="assets/neural-net.gif" alt="Animated neural network" width="400">
 
-### Hi, I'm Amir Alsabea.
+<br>
 
-I'm an Artificial Intelligence student at **IAU** with a strong background in **AI, machine learning, and web development**.  
-I enjoy building practical projects, solving technical problems, and exploring how AI can be integrated into modern web applications
+#### Hi, I'm Amir Alsabea.
 
-### My goal:
+<sub>I'm an Artificial Intelligence student at **IAU** with a strong background in **AI, machine learning, and web development**.<br>
+I enjoy building practical projects, solving technical problems,<br>
+and exploring how AI can be integrated into modern web applications</sub>
 
-Turn AI ideas into practical, working web applications that solve real problems.
+<br>
 
-#### Studied at:
+#### My goal:
+
+<sub>Turn AI ideas into practical, working web applications that solve real problems.</sub>
+
+<br>
+
+##### Studied at:
 
 <a href="https://www.iau.edu.sa"><img src="assets/iau-logo.png" alt="Imam Abdulrahman Bin Faisal University" width="400"></a>
+
+<br>
 
 </div>
 
