@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/neural-net.gif" alt="Animated neural network" width="230">
+<img src="assets/neural-net.gif" alt="Animated neural network" width="210">
 
 <br>
 
@@ -18,7 +18,7 @@ Turn AI ideas into practical, working web applications that solve real problems.
 
 ### Studied at:
 
-<a href="https://www.iau.edu.sa"><img src="assets/iau-logo.png" alt="Imam Abdulrahman Bin Faisal University" width="360"></a>
+<a href="https://www.iau.edu.sa"><img src="assets/iau-logo.png" alt="Imam Abdulrahman Bin Faisal University" width="340"></a>
 
 
 ### Find me on:
